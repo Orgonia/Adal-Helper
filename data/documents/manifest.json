@@ -1,0 +1,56 @@
+{
+  "constitution-kz.pdf": {
+    "title": "Конституция Республики Казахстан",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "https://adilet.zan.kz/rus/docs/K2600000000"
+  },
+  "law-state-symbols.pdf": {
+    "title": "Конституционный закон «О государственных символах Республики Казахстан» от 4 июня 2007 года № 258",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "https://adilet.zan.kz/rus/docs/Z070000258_"
+  },
+  "law-judicial-system.pdf": {
+    "title": "Конституционный закон «О судебной системе и статусе судей Республики Казахстан» от 25 декабря 2000 года № 132",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "https://adilet.zan.kz/rus/docs/Z000000132_"
+  },
+  "law-elections.pdf": {
+    "title": "Конституционный закон «О выборах в Республике Казахстан» от 28 сентября 1995 года № 2464",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "https://adilet.zan.kz/rus/docs/Z950002464_"
+  },
+  "law-constitutional-court.pdf": {
+    "title": "Конституционный закон «О Конституционном Суде Республики Казахстан» от 5 ноября 2022 года № 153-VII ЗРК",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "https://adilet.zan.kz/rus/docs/Z2200000153"
+  },
+  "law-ombudsman.pdf": {
+    "title": "Конституционный закон «Об Уполномоченном по правам человека в Республике Казахстан» от 5 ноября 2022 года № 154-VII ЗРК",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "https://adilet.zan.kz/rus/docs/Z2200000154"
+  },
+  "--------------------------------------------------.pdf": {
+    "title": "О_внесении_изменений_в_некоторые_конституционные_з",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "[https://adilet.zan.kz/rus/docs/](https://adilet.zan.kz/rus/docs/)"
+  },
+  "О_внесении_изменений_и_дополнений_в_некоторые_зако.pdf": {
+    "title": "О_внесении_изменений_и_дополнений_в_некоторые_зако",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "[https://adilet.zan.kz/rus/docs/](https://adilet.zan.kz/rus/docs/)"
+  },
+  "----------.pdf": {
+    "title": "О_беженцах",
+    "topic": "constitution",
+    "lang": "ru",
+    "url": "[https://adilet.zan.kz/rus/docs/](https://adilet.zan.kz/rus/docs/)"
+  }
+}
